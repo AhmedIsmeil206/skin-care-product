@@ -12,7 +12,6 @@ function App() {
           <li><a href="#home" className="active">Home</a></li>
           <li><a href="#shop">Shop</a></li>
           <li><a href="#reviews">Reviews</a></li>
-          <li><a href="#reviews">Reviews</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
