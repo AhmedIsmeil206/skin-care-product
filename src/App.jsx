@@ -23,7 +23,7 @@ function App() {
           <img src={heroProduct} alt="Centella Poremazing Fresh Ampoule - Glow Boosting Serum" />
         </div>
         <div className="hero-content">
-          <h1>Centella Poremazing Fresh Ampoule</h1>
+          <h1>Centella Poremizing Fresh Ampoule</h1>
           <p className="hero-tagline">Your Ultimate <strong>Glow Boosting Serum</strong></p>
           <p>Experience purified pores & radiant skin</p>
           <button className="btn-primary">Shop Now</button>
