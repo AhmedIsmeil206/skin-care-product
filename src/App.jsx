@@ -111,7 +111,7 @@ function App() {
         <div className="footer-links">
           <a href="#about">About Us</a>
           <a href="#faq">FAQ</a>
-          <span className="copyright">©2024 Pure Skincare</span>
+          <span className="copyright">©2025 Pure Skincare</span>
         </div>
         <div className="social-icons">
           <a href="#twitter" aria-label="Twitter">
