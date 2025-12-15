@@ -110,7 +110,6 @@ function App() {
       <footer className="footer">
         <div className="footer-links">
           <a href="#about">About Us</a>
-          <a href="#about">About Us</a>
           <a href="#faq">FAQ</a>
           <span className="copyright">©2024 Pure Skincare</span>
         </div>
